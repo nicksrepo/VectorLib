@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "github.com/genovatix/vectorlib/setup"
+	_ "github.com/nicksrepo/vectorlib/setup"
 )
 
 func main() {

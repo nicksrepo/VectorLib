@@ -1,6 +1,6 @@
 package vector
 
-import "github.com/genovatix/vectorlib/utils"
+import "github.com/nicksrepo/vectorlib/utils"
 
 type Index map[string]*KDNode
 

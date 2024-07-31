@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/genovatix/vectorlib/utils"
-	"github.com/genovatix/vectorlib/utils/oqs"
+	"github.com/nicksrepo/vectorlib/utils"
+	"github.com/nicksrepo/vectorlib/utils/oqs"
 )
 
 func SetRootKeys() {
