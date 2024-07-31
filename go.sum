@@ -1,0 +1,4 @@
+github.com/oligo/hnswgo v0.1.1 h1:B1rTJQBpEAgINbcS2LkPIffOtfr+ZT45ChaBLz47B0s=
+github.com/oligo/hnswgo v0.1.1/go.mod h1:SzYQ7bBEtlTFKY7O7l8jjllJoOkXeHCQIpBsQBsyK38=
+github.com/open-quantum-safe/liboqs-go v0.0.0-20240412174151-8a109c3b4878 h1:3P/LtzSwtxAtlwPD4yChQLnSlownfdTlaJFXrkBn0j8=
+github.com/open-quantum-safe/liboqs-go v0.0.0-20240412174151-8a109c3b4878/go.mod h1:OoIQ+v4rM6S6cF9zLGxsnsXX9vwv7WLp9s0TV2FbD6M=

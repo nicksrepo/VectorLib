@@ -1,5 +1,5 @@
 export DYLD_LIBRARY_PATH=/usr/local/lib
 export LIBOQS_INCLUDE_PATH=/usr/local/include/oqs
-export PKG_CONFIG_PATH=$PKG_CONFIG_PATH:/Users/nickn/Desktop/nicksrepo-monorepo/liboqs-go/.config
+export PKG_CONFIG_PATH=$PKG_CONFIG_PATH:/Users/nickn/liboqs-go/.config
 export root_encryption_key="TEST_KEY_FOR_SUPER_ROOT_KEY_ENCRYPTION"
 export GIT_TERMINAL_PROMPT=1
